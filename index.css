@@ -1,0 +1,11 @@
+body{
+                  background-color: rgb(137, 191, 245);
+}
+.image {
+                  width: 120px;
+                  height: 150px;
+                 float: left;
+}
+.line{
+                  float: right;
+}
